@@ -1,0 +1,9 @@
+#!/usr/bin/python3
+
+def number_keys(a_dictionary):
+    """Function that returns the number of keys in a dictionary
+
+    Args:
+        a_dictionary (dictionary): dict to check
+    """
+    return len((a_dictionary))
